@@ -12,7 +12,7 @@ This repository contains the examples of sample Apache Spark exercise notebooks 
 ## Get started fast with spark
 > https://www.youtube.com/watch?v=4SIZNQ7KZX8
 
-
+## Practicing Spark with online notebooks
 - In this workshop we used 'Zepl', a Web-based notebook to get started with spark application. 
 > https://www.zepl.com/USU1XQILT/spaces/S_ZEPL/d9f6f52521cb4ff5ad24851a5756d664
 
