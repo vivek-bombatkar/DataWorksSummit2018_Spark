@@ -1,3 +1,6 @@
+
+![Logo of the project](https://github.com/vivek-bombatkar/DataWorksSummit2018_Spark/blob/master/spark.JPG)
+
 # DataWorksSummit2018_Spark
 > https://dataworkssummit.com/berlin-2018/
 
