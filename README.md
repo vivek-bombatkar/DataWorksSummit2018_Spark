@@ -19,3 +19,23 @@ This repository contains the examples of sample Apache Spark exercise notebooks 
 - Other solution to get start with Spark is to use Jupyter notebook from databricks community cloud.
 > https://community.cloud.databricks.com/?o=4222224209897404
 
+## Steps to load notebooks into 'zepl'.
+
+- Click Create project in the top right-hand corner drop-down menu:
+<img src="./zepl_1.png" />
+
+- Create a project with unique name by appending your username at the end :
+<img src="./zepl_2.png" />
+
+- Click on Assets:
+<img src="./zepl_3.png" />
+
+- Click add notebook:
+<img src="./zepl_4.png" />
+
+-	Select From URL, type name Spark_in_5_min, In Notebook URL paste the notebook url from repo, i.e. *.ipynb , In Environment select Zeppelin with Anaconda2, Python 2.7, 	Click Create
+<img src="./zepl_5.png" />
+
+- After a minute or two a Zeppelin notebook should load which will look like this:
+<img src="./zepl_6.png" />
+
